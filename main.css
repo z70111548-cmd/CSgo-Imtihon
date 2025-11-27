@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.header{
+    background-color: #272C3D;
+    padding: 20px 0;
+}
+span{
+    color: #FF9C28;
+}
+.heaedr__nav{
+display: flex;
+justify-content: center;
+padding: 5px 0;
+}
+.header__item{
+    display: flex;
+    gap: 30px;
+    margin-right: 800px;
+}
+.header__link{
+    color: white;
+    font-family: "Quantico";
+font-weight: 400;
+font-style: Regular;
+font-size: 20px;
+line-height: 100%;
+transition: 0.3s;
+}
+.header__link:hover{
+    color: blue;
+}
+.input{
+    background-color: #404864;
+    width: 240px;
+    height: 30px;
+    border-radius: 5px;
+    font-family: "Quantico";
+font-weight: 400;
+font-style: Regular;
+font-size: 12px;
+line-height: 100%;
+letter-spacing: 0%;
+border: none;
+}
+.text__box{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    justify-content: space-between;
+}
+.search{
+    width: 26px;
+    height: 26px;
+    color: white;
+}
+.header__right{
+    display: flex;
+    gap: 30px;
+}
+select{
+    background-color: #00000080;
+    width: 165px;
+    height: 30px;
+    font-family: "Quantico";
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+}
+.hero{
+       background-image: url("./images/Bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+     height: 800px;
+}
+.hello{
+    background-color: black;
+ 
+}
+.tex{
+    font-family: "Quantico";
+font-weight: 400;
+font-style: Regular;
+font-size: 32px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+text-align: center;
+}
+
+.biger{
+
+}
+.wrapper{
+   margin-top: 20px;
+   display: flex;
+   margin-top: 100px;
+}
+.chempion{
+    font-family: "Quantico";
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+}
+.section__2{
+    background-color: #1B1E27;
+    border: 35px solid black;
+    height: 928px;
+}
+.bigdiv{
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+}
+.propis{
+    color: white;
+    width: 323px;
+    height: 224px;
+    font-family: "Quantico";
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-top: 20px
+}
+.div2{
+    margin-top: 40px;
+}
+.div3{
+    margin-top: 142px;
+}
+.footer{
+    background-color: #272C3D;
+    height: 70px;
+     
+}
+.paski__qismi{
+    display: flex;
+  gap: 1000px;
+  padding: 20px 0;
+
+}
+.header__ite{
+       display: flex;
+    gap: 30px;
+    margin-right: 800px;
+}
