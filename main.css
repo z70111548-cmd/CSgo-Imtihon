@@ -22,11 +22,12 @@ span{
 display: flex;
 justify-content: center;
 padding: 5px 0;
+gap: 300px;
 }
 .header__item{
     display: flex;
     gap: 30px;
-    margin-right: 800px;
+   
 }
 .header__link{
     color: white;
@@ -67,6 +68,7 @@ border: none;
 .header__right{
     display: flex;
     gap: 30px;
+   
 }
 select{
     background-color: #00000080;
@@ -143,6 +145,7 @@ margin-top: 20px
 }
 .div2{
     margin-top: 40px;
+    padding: 0 250px;
 }
 .div3{
     margin-top: 142px;
@@ -154,12 +157,12 @@ margin-top: 20px
 }
 .paski__qismi{
     display: flex;
-  gap: 1000px;
+  gap: 700px;
   padding: 20px 0;
-
+   
 }
 .header__ite{
        display: flex;
     gap: 30px;
-    margin-right: 800px;
+    
 }
